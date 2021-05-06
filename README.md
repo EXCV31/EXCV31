@@ -17,7 +17,7 @@
 
 ### 💻🏠 I use at home :
    <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
-   <img align="left" title="Tkinter" width="40px" src="https://user-images.githubusercontent.com/5421823/60666436-f077ac80-9e5e-11e9-8e4d-a1c5598e82f8.png" />
+   <img align="left" title="Tkinter" width="40px" src="https://media.discordapp.net/attachments/816688532982333462/839808751137587230/tk.png" />
 <br>
 <br>   
 <br>
