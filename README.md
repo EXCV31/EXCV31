@@ -11,13 +11,17 @@
   <img align="left" title="Git" width="40px" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/256px-Git_icon.svg.png" />
   <img align="left" title="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
   <img align="left" title="Raspberry Pi" width="40px" src="https://my.raspberrypi.org/favicon.ico" />
+  <img align="left" title="Linux" width="40px" src="https://legends.goalunited.org/wp-content/uploads/2020/11/Linux-icon.png" />
 <br>
 <br>   
 <br>
 
 ### 💻🏠 I use at home :
+
+   <img align="left" title="Linux" width="40px" src="https://legends.goalunited.org/wp-content/uploads/2020/11/Linux-icon.png" />
+   <img align="left" title="Linux" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png" />
    <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
-   <img align="left" title="Tkinter" width="40px" src="https://media.discordapp.net/attachments/816688532982333462/839808751137587230/tk.png" />
+   <img align="left" title="Selenium WebDriver" width="40px" src="https://img.icons8.com/ios/452/selenium-test-automation.png" />
 <br>
 <br>   
 <br>
