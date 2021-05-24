@@ -19,10 +19,11 @@
 ### 💻🏠 I use at home :
    <img align="left" title="Python" width="40px" src="https://applover.pl/wp-content/uploads/2020/01/kisspng-python-computer-icons-programming-language-executa-5d0f0aa7c78fb3.0414836115612668558174-1024x1024.png" />
   <img align="left" title="Pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/150px-PyCharm_Icon.svg.png" />
+  <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
+   <img align="left" title="Selenium WebDriver" width="40px" src="https://img.icons8.com/ios/452/selenium-test-automation.png" />
    <img align="left" title="Linux" width="40px" src="https://legends.goalunited.org/wp-content/uploads/2020/11/Linux-icon.png" />
    <img align="left" title="Windows" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png" />
-   <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
-   <img align="left" title="Selenium WebDriver" width="40px" src="https://img.icons8.com/ios/452/selenium-test-automation.png" />
+   
 <br>
 <br>   
 <br>
