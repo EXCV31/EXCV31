@@ -34,7 +34,7 @@
 <br>
 
 ### 📚🌱 I’m currently learning :
-  <img align="left" title="Kivy" width="40px" src="http://kivy.org/logos/kivy-logo-black-256.png" />
+  <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
   <img align="left" title="Gitlab CI" width="40px" src="https://con.jaktestowac.pl/wp-content/uploads/posts/qe2019-media/gitlab-ci-cd-logo_2x.png" />
   <img align="left" title="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
