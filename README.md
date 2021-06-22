@@ -22,7 +22,7 @@
   <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
    <img align="left" title="Selenium WebDriver" width="40px" src="https://img.icons8.com/ios/452/selenium-test-automation.png" />
    <img align="left" title="Linux" width="40px" src="https://legends.goalunited.org/wp-content/uploads/2020/11/Linux-icon.png" />
-   <img align="left" title="Windows" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png" />
+   <img align="left" title="SQL/SQLite3" width="40px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
    
 <br>
 <br>   
