@@ -23,6 +23,7 @@
      <img align="left" title="Raspberry Pi" width="40px" src="https://my.raspberrypi.org/favicon.ico" />
    <img align="left" title="Linux" width="40px" src="https://legends.goalunited.org/wp-content/uploads/2020/11/Linux-icon.png" />
    <img align="left" title="SQL/SQLite3" width="40px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+   <img align="left" title="Rust" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" />
    
 <br>
 <br>   
