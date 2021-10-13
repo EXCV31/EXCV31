@@ -22,7 +22,7 @@
   <img align="left" title="PyQT5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GbeIIyVBFyIepWO9bySXmHYf9d1KLZejPg&usqp=CAU" />
      <img align="left" title="Raspberry Pi" width="40px" src="https://my.raspberrypi.org/favicon.ico" />
    <img align="left" title="Linux" width="40px" src="https://legends.goalunited.org/wp-content/uploads/2020/11/Linux-icon.png" />
-   <img align="left" title="SQL/SQLite3" width="40px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+   <img align="left" title="SQL/SQLite3" width="40px" src="https://www.cab.de/media/images/_produktuebersicht/produkt2031.png" />
    <img align="left" title="Rust" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" />
    
 <br>
